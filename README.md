@@ -13,7 +13,26 @@ Por ser um site estático, não contém muitas funcionalidades, aqui estão as p
 
 ## ⬇️Download do projeto
 
-O projeto pode ser baixado <a src='' download>aqui</a>
+O projeto pode ser baixado <a src='https://github.com/leandro-pessoa/books/archive/refs/heads/main.zip' download>aqui</a>
+
+## 🛠️Executando o projeto
+
+Para acessar o projeto, entre <a src='https://leandro-pessoa.github.io/books/index.html'>neste link</a>
+
+Caso queira executar na sua máquina:
+
+- Baixe o arquivo
+- Abra a pasta na sua IDE
+- Execute o live server
+
+## Tecnologias utilizadas
+
+- `HTML5 e CSS3`
+- `SwiperJS` [🔗](https://swiperjs.com/)
+
+
+
+  
 
 
 
