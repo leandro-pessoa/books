@@ -1,4 +1,4 @@
-# Books
+# 📘 Books
 
 ![Site aberto em tela de notebook](https://github.com/leandro-pessoa/books/assets/119120060/0b353f5a-c38d-4f56-87da-f3e9b0d510f8)
 
@@ -25,10 +25,14 @@ Caso queira executar na sua máquina:
 - Abra a pasta na sua IDE
 - Execute o live server
 
-## Tecnologias utilizadas
+## ⚛️ Tecnologias utilizadas
 
 - `HTML5 e CSS3`
 - `SwiperJS` [🔗](https://swiperjs.com/)
+
+# :hurtrealbad: Desenvolvedor
+
+Desenvolvido por [Leandro Pessoa](https://github.com/leandro-pessoa) durante o curso de mobile first da [Alura](https://alura.com).
 
 
 
